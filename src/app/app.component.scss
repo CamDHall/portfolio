@@ -1,0 +1,28 @@
+html, body {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    font-weight: bold;
+
+    a {
+        text-decoration: none;
+        color: #4A8FE7;
+    }
+}
+
+.summary {
+    width: 70%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+@media screen and (max-width: 720px) {
+    .summary {
+        width: 90%;
+    }
+}

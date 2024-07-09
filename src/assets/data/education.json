@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Bachelor of Business Administration",
+        "organization": "Wichita State University",
+        "startDate": "August 2013",
+        "endDate": "December 2015",
+        "summary": "Marketing",
+        "url": "https://www.wichita.edu/academics/business/index.php",
+        "photoName": "wsu.png"
+    },
+    {
+        "title": "Bachelor of Fine Arts",
+        "organization": "New York University",
+        "startDate": "Janruary 2016",
+        "endDate": "December 2017",
+        "summary": "Game Design",
+        "url": "https://gamecenter.nyu.edu/",
+        "photoName": "nyu.png"
+    }
+]
