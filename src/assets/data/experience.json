@@ -6,7 +6,7 @@
         "endDate": "June 28, 2024",
         "summary": "I build third-party integrations to enable access to extensive laboratory networks across the United States. I spearhead initiatives to enhance .NET and Python testing methodologies, which have significantly increased code coverage for flagship products. Additionally, I lead the development of Python microservices that efficiently extract and process large datasets from AI services, thereby improving overall system performance. I also architect and implement external-facing APIs to facilitate seamless integration with third-party platforms, enhancing both product functionality and scalability. Furthermore, I drive migration efforts to transition cloud infrastructure from AWS to Azure, ensuring a smooth transition and optimal resource utilization.",
         "url": "https://paige.ai/",
-        "photoName": "paige.png"
+        "photoName": "paige.webp"
     },
     {
         "title": ".Net Cloud Engineer",
@@ -15,7 +15,7 @@
         "endDate": "March 30, 2022",
         "summary": "I designed and implemented Azure microservices to handle product shipments and user identity services, optimizing system reliability and scalability. Additionally, I developed Azure .NET functions integrated with ShipStation and ChargeBee, streamlining order processing and billing operations. I also troubleshooted and resolved complex issues related to message queuing in Azure Service Bus, ensuring seamless communication across distributed systems.",
         "url": "https://www.huntakiller.com/",
-        "photoName": "hak.png"
+        "photoName": "hak.webp"
     },
     {
         "title": "Microsoft Applications Solution Developer II",
@@ -24,7 +24,7 @@
         "endDate": "August 30, 2021",
         "summary": "I led the design and development of administrative tools for servicing hundreds of thousands of customers, utilizing Angular 10 and .NET Core 3.1, which resulted in improved operational efficiency. Additionally, I contributed to the development of a mobile app serving 300,000 active users, leveraging Ionic, Angular 10, and .NET Core, thereby enhancing user engagement and satisfaction. I conducted performance analysis and optimization for middleware applications serving over 700,000 members, improving system responsiveness and scalability. Moreover, I managed Azure DevOps builds and releases, ensuring smooth deployment and continuous delivery of software updates.",
         "url": "https://www.ssfcu.org/",
-        "photoName": "ssfcu.png"
+        "photoName": "ssfcu.webp"
     },
     {
         "title": "Software Developer Contractor",
@@ -33,7 +33,7 @@
         "endDate": "November 30, 2019",
         "summary": "I architected and engineered .NET Core APIs to render dynamic ReactJS components, enhancing the flexibility and extensibility of the CMS-driven platform. Additionally, I successfully ported legacy .NET Framework sites to .NET Core, modernizing the technology stack and improving system performance. I developed RESTful APIs for Roku development, enabling seamless content delivery to streaming devices, and updated and maintained .NET Razor views, ensuring a consistent user experience across web applications.",
         "url": "https://www.jhm.org/",
-        "photoName": "saccs.png"
+        "photoName": "saccs.webp"
     },
     {
         "title": "Junior Software Developer",
@@ -42,7 +42,7 @@
         "endDate": "March 30, 2019",
         "summary": "I designed and developed cardio analytic tools using Node.js and SQL, providing healthcare providers with valuable insights for patient monitoring. Additionally, I created RESTful Node.js APIs for user management and analytics, facilitating seamless data exchange between frontend and backend systems. Furthermore, I developed a real-time dashboard for healthcare providers to monitor electrocardiograms, utilizing React for intuitive data visualization.",
         "url": "https://www.airstrip.com/",
-        "photoName": "airstrip.png"
+        "photoName": "airstrip.webp"
     },
     {
         "title": "Engineering Internship",
@@ -51,7 +51,7 @@
         "endDate": "December 20, 2018",
         "summary": "I updated and optimized legacy iOS apps for compatibility with iOS 12, ensuring continued functionality and user satisfaction. Additionally, I refactored SMS and notification functionality for iOS and Android apps, improving overall performance and reliability. Furthermore, I conducted qualitative testing for Unity VR applications, identifying and addressing usability issues to enhance the user experience.",
         "url": "https://www.boozallen.com/",
-        "photoName": "bah.png"
+        "photoName": "bah.webp"
     },
     {
         "title": "Game Development Internship",
@@ -60,6 +60,6 @@
         "endDate": "December 20, 2018",
         "summary": "I updated and optimized legacy iOS apps for compatibility with iOS 12, ensuring continued functionality and user satisfaction. Additionally, I refactored SMS and notification functionality for iOS and Android apps, improving overall performance and reliability. Furthermore, I conducted qualitative testing for Unity VR applications, identifying and addressing usability issues to enhance the user experience.",
         "url": "",
-        "photoName": "kbr.png"
+        "photoName": "kbr.webp"
     }
 ]
