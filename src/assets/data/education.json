@@ -6,7 +6,7 @@
         "endDate": "December 2015",
         "summary": "Marketing",
         "url": "https://www.wichita.edu/academics/business/index.php",
-        "photoName": "wsu.png"
+        "photoName": "wsu.webp"
     },
     {
         "title": "Bachelor of Fine Arts",
@@ -15,6 +15,6 @@
         "endDate": "December 2017",
         "summary": "Game Design",
         "url": "https://gamecenter.nyu.edu/",
-        "photoName": "nyu.png"
+        "photoName": "nyu.webp"
     }
 ]
